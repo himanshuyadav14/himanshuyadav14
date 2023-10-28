@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/himanshuuuuu19" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuuuuu19?logo=twitter&style=for-the-badge" alt="himanshuuuuu19" /></a> </p>
 
-- 🔭 I’m currently working on **Study Notion(EdTech platform)**
+- 🔭 I’m currently working on **FINDING SDE ROLES**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Web Development, MERN**
+- 💬 Ask me about **Web Development, MERN, DSA**
 
 - 📫 How to reach me **himyadav.yh@gmail.com**
 

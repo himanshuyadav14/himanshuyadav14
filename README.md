@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently **FINDING SDE ROLES**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently grinding **Leetcode and Core CS Subjects**
 
-- 💬 Ask me about **Data Structures And Algorithms**
+- 💬 Ask me about **Data Structures And Algorithms and MERN**
 
 - 📫 How to reach me **himyadav.yh@gmail.com**
 

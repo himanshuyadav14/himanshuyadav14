@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **FINDING SDE ROLES**
 
--  🔭 Solved **600+ Leetcode DSA Problems in c++**
+-  ✅ Solved **600+ Leetcode DSA Problems in c++**
 
 - 🌱 I’m currently grinding **Leetcode and Core CS Subjects**
 

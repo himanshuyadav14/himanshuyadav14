@@ -12,7 +12,7 @@
 
 - 🥷🏻**Knight** on Leetcode with **Contest Rating - 1850+** 
 
--  ✅ Solved **600+ Leetcode DSA Problems in c++**
+-  ✅ Solved **650+ Leetcode DSA Problems in c++**
 
 - 🌱 I’m currently grinding **Leetcode and Core CS Subjects**
 

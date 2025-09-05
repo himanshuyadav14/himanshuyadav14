@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/himanshuuuuu19" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuuuuu19?logo=twitter&style=for-the-badge" alt="himanshuuuuu19" /></a> </p>
 
-- 🌱 I’m currently working FULL TIME **@Quantara AI as (Full Stack Developer)**
+- 🌱 I’m currently working FULL TIME in **@Quantara AI as (Full Stack Engineer)**
 - 🥷🏻**Knight** on Leetcode with **Contest Rating - 1942+** 
--  ✅ Solved **850+ Leetcode DSA Problems in c++**
+-  ✅ Solved **900+ Leetcode DSA Problems in c++**
 - 💬 Ask me about **Data Structures And Algorithms and Full Stack Development**
 - 📫 How to reach me **himyadav.yh@gmail.com**
 

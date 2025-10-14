@@ -1,6 +1,6 @@
-<!-- 🧠 Animated Typing Banner -->
+<!-- 🌟 Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Himanshu+Yadav!;Full+Stack+Engineer+%40+Quantara+AI;Knight+on+LeetCode+(1942%2B+Rating);900%2B+DSA+Problems+Solved+in+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C9A7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Himanshu+Yadav!;Full+Stack+Engineer+%40+Quantara+AI;Apple+App+Developer+(Ionic+%2B+Xcode);Integrating+LLMs+Into+Real+Products;900%2B+DSA+Problems+Solved+in+C%2B%2B" alt="Typing SVG" />
 </p>
 
 <h3 align="center">💻 A Passionate Software Engineer from India</h3>
@@ -9,10 +9,13 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Currently working **Full-Time at [Quantara AI](https://quantara.ai)** as a **Full Stack Engineer**
-- 🥷 **Knight** on **LeetCode** with a **Contest Rating of 1942+**
-- 💪 Solved **900+ DSA problems** on **LeetCode (C++)**
-- 💬 Ask me about **Data Structures, Algorithms, and Full Stack Development**
+- 🚀 Working **Full-Time at [Quantara AI](https://quantara.ai)** as a **Full Stack Engineer**
+- 🧠 Integrating **LLMs into Production Systems** — currently building *Noam Vision’s Drag-and-Drop Agent Builder*
+- ⚙️ Experienced in **End-to-End SaaS Engineering** — from Frontend to Cloud Infrastructure
+- 🧩 Solved **900+ DSA Problems in C++** and hold a **Knight** rank on **LeetCode (1942+ Rating)**
+- 🏗️ Built and scaled real projects like **GrowthPro AI** and **CodeGavel**
+- 📱 Working on **Apple Apps** using **Ionic + Xcode**
+- 💬 Ask me about **DSA, Scalable Systems, and Modern Web + Mobile Development**
 - 📫 Reach me at: **himyadav.yh@gmail.com**
 
 ---
@@ -30,11 +33,41 @@
 
 ---
 
-### 🧩 Languages & Tools
+### 🧩 Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,mysql,python,tailwind,html,css,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,redux,zustand,nodejs,express,mongodb,dynamodb,mysql,aws,amplify,ionic,xcode,tailwind,plotly,git,github,vscode" />
 </p>
+
+---
+
+### 🧠 Current Focus Areas
+
+- 🧩 **Building an LLM-powered No-Code Agent Builder** for **Noam Vision**
+- ☁️ **AWS Cloud Integration** — Lambda, API Gateway, Amplify, DynamoDB
+- 📊 **Interactive Dashboards** with **Plotly**, **React**, and **Next.js**
+- 📱 **Hybrid App Development** with **Ionic + Xcode**
+- ⚡ **State Management** using **Zustand** and **Redux**
+- 💬 **MERN + TypeScript + AWS** for scalable SaaS architectures
+
+---
+
+### 🧱 Major Projects
+
+#### 🧭 GrowthPro AI
+> AI-powered SEO & Content Strategy Platform  
+- Built multi-step project creation & content generation flows using React + Tailwind  
+- Integrated APIs for **keyword generation**, **competitor analysis**, and **blueprint generation**
+
+#### ⚖️ CodeGavel
+> LegalTech SaaS platform for contract & document management  
+- Developed core UI & backend integration with authentication  
+- Implemented structured workflows and scalable APIs  
+
+#### 🧠 Noam Vision
+> AI Agent Platform for Visual Data Understanding  
+- Working on **Drag-and-Drop Agent Builder**  
+- Integrating **LLM-powered analysis modules** with **Python & AWS**
 
 ---
 
@@ -54,9 +87,9 @@
 ### 🏆 Achievements
 
 - 🥇 Top **4.5%** globally on **LeetCode**
-- 💡 Over **1.9K+ GitHub Profile Views**
-- 🧠 Contributor to **FinTech and Open Source Projects**
-- 🧑‍💻 Passionate about **Scalable Architecture** & **Modern Web Systems**
+- 💡 **1.9K+ GitHub Profile Views**
+- 🧠 Contributor to **LLM + FinTech Open Source Projects**
+- ⚙️ Experienced in **Full-Stack, Cloud, and AI-Driven Systems**
 
 ---
 

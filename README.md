@@ -2,7 +2,7 @@
 <h3 align="center">💻 A Passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://github.com/himanshuyadav14/himanshuyadav14/assets/your-image-id/banner.png" alt="Himanshu Yadav | Software Engineer" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Himanshu+Yadav!;Full+Stack+Engineer+%40+Quantara+AI;Knight+on+LeetCode+(1942%2B+Rating);900%2B+DSA+Problems+Solved+in+C%2B%2B" alt="Typing SVG" />
 </p>
 
 ---

@@ -2,7 +2,7 @@
 <h3 align="center">💻 A Passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400"/>
+  <img src="https://github.com/himanshuyadav14/himanshuyadav14/assets/your-image-id/banner.png" alt="Himanshu Yadav | Software Engineer" width="100%" />
 </p>
 
 ---

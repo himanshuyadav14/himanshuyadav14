@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C9A7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Himanshu+Yadav!;Full+Stack+Engineer+%40+Quantara+AI;Apple+App+Developer+(Ionic+%2B+Xcode);Integrating+LLMs+Into+Real+Products;900%2B+DSA+Problems+Solved+in+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C9A7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Himanshu+Yadav!;Full+Stack+Engineer+%40+Quantara+AI;AWS+%7C+LLM+Integrations+%7C+MERN+%7C+Ionic+%7C+Next.js;900%2B+DSA+Problems+Solved+in+C%2B%2B" alt="Typing SVG" />
 </p>
 
 <h3 align="center">💻 A Passionate Software Engineer from India</h3>
@@ -10,12 +10,12 @@
 ### 👨‍💻 About Me
 
 - 🚀 Working **Full-Time at [Quantara AI](https://quantara.ai)** as a **Full Stack Engineer**
-- 🧠 Integrating **LLMs into Production Systems** — currently building *Noam Vision’s Drag-and-Drop Agent Builder*
-- ⚙️ Experienced in **End-to-End SaaS Engineering** — from Frontend to Cloud Infrastructure
-- 🧩 Solved **900+ DSA Problems in C++** and hold a **Knight** rank on **LeetCode (1942+ Rating)**
-- 🏗️ Built and scaled real projects like **GrowthPro AI** and **CodeGavel**
-- 📱 Working on **Apple Apps** using **Ionic + Xcode**
-- 💬 Ask me about **DSA, Scalable Systems, and Modern Web + Mobile Development**
+- 🧠 Integrating **LLMs into Production Systems** — building *Noam Vision’s Drag-and-Drop Agent Builder*
+- ☁️ Strong experience with **AWS Lambda, API Gateway, DynamoDB, Amplify** & **Cloud Architecture**
+- 🧩 Solved **900+ LeetCode DSA Problems (C++)** | **Knight (1942+ Rating)**
+- 🧱 Built real-world SaaS products like **GrowthPro AI** & **CodeGavel**
+- 📱 Developing **Apple Apps** using **Ionic + Xcode**
+- 💬 Ask me about **Scalable Architectures, DSA, AWS, and Full Stack Development**
 - 📫 Reach me at: **himyadav.yh@gmail.com**
 
 ---
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://twitter.com/himanshuuuuu19" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/himanshu--yadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/himanshuyadav14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://instagram.com/_himanshu14" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.leetcode.com/himanshuyadav1424" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/></a>
   <a href="https://auth.geeksforgeeks.org/user/himyadavyh" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=GeeksforGeeks&logoColor=white&style=for-the-badge"/></a>
@@ -33,22 +33,28 @@
 
 ---
 
-### 🧩 Languages, Frameworks & Tools
+## ⚙️ Tech Stack Overview
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,redux,zustand,nodejs,express,mongodb,dynamodb,mysql,aws,amplify,ionic,xcode,tailwind,plotly,git,github,vscode" />
-</p>
+| **Category** | **Technologies & Tools** |
+|--------------|---------------------------|
+| ☁️ **Cloud & Infrastructure** | AWS (Lambda, API Gateway, Amplify, DynamoDB), GCP (basic), Firebase |
+| 🧠 **Backend Development** | Node.js, Express.js, Python, REST APIs, JWT, MongoDB, MySQL |
+| ⚡ **Frontend Frameworks** | React.js, Next.js, Ionic, Redux, Zustand, TailwindCSS |
+| 📱 **App Development** | Ionic (Hybrid Apps), Xcode (Apple Apps) |
+| 🧩 **Data & Visualization** | Plotly, Chart.js, Recharts |
+| 💻 **Programming Languages** | C++, JavaScript, TypeScript, Python, HTML, CSS |
+| 🧰 **DevOps & Tools** | Git, GitHub, VS Code, Postman, AWS Amplify Console |
+| 🤖 **AI & LLM Integration** | OpenAI APIs, LangChain (In Progress), Noam Vision Agent Builder |
 
 ---
 
 ### 🧠 Current Focus Areas
 
-- 🧩 **Building an LLM-powered No-Code Agent Builder** for **Noam Vision**
-- ☁️ **AWS Cloud Integration** — Lambda, API Gateway, Amplify, DynamoDB
-- 📊 **Interactive Dashboards** with **Plotly**, **React**, and **Next.js**
-- 📱 **Hybrid App Development** with **Ionic + Xcode**
-- ⚡ **State Management** using **Zustand** and **Redux**
-- 💬 **MERN + TypeScript + AWS** for scalable SaaS architectures
+- ⚙️ **AWS Backend Development** – microservices using Lambda + API Gateway  
+- 🧩 **LLM Integration** for **Noam Vision’s drag-and-drop Agent Builder**  
+- 📊 **Data visualization dashboards** using Plotly + Next.js  
+- ☁️ **Scalable SaaS apps** with MERN + Amplify + DynamoDB  
+- 📱 **Cross-platform app development** with Ionic + Xcode  
 
 ---
 
@@ -56,18 +62,18 @@
 
 #### 🧭 GrowthPro AI
 > AI-powered SEO & Content Strategy Platform  
-- Built multi-step project creation & content generation flows using React + Tailwind  
+- Multi-step project creation & topic generation using **React + Tailwind + Amplify**  
 - Integrated APIs for **keyword generation**, **competitor analysis**, and **blueprint generation**
 
 #### ⚖️ CodeGavel
-> LegalTech SaaS platform for contract & document management  
-- Developed core UI & backend integration with authentication  
-- Implemented structured workflows and scalable APIs  
+> LegalTech SaaS for contract & document management  
+- Built **UI + authentication flows** with scalable backend APIs  
+- Enhanced user experience with **React, Node.js, and MongoDB**
 
 #### 🧠 Noam Vision
 > AI Agent Platform for Visual Data Understanding  
-- Working on **Drag-and-Drop Agent Builder**  
-- Integrating **LLM-powered analysis modules** with **Python & AWS**
+- Developed **Drag-and-Drop Agent Builder** integrated with **LLMs**  
+- Backend on **AWS Lambda + API Gateway + DynamoDB**
 
 ---
 
@@ -87,9 +93,10 @@
 ### 🏆 Achievements
 
 - 🥇 Top **4.5%** globally on **LeetCode**
-- 💡 **1.9K+ GitHub Profile Views**
-- 🧠 Contributor to **LLM + FinTech Open Source Projects**
-- ⚙️ Experienced in **Full-Stack, Cloud, and AI-Driven Systems**
+- 💡 Over **1.9K+ GitHub Profile Views**
+- ⚙️ Extensive hands-on experience in **AWS Backend + LLM Systems**
+- 🧠 Contributor to **FinTech & AI-driven projects**
+- 💪 Built scalable **SaaS & Hybrid Applications**
 
 ---
 
